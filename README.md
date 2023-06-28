@@ -2,7 +2,7 @@
 
 ## Steps to run
 
-1. Start the mongoDB service on your local machine.
+1. Start the mongoDB service on your local machine. [Link](https://www.mongodb.com/docs/manual/tutorial/manage-mongodb-processes/#:~:text=You%20can%20start%20MongoDB%20from,Edition%20as%20a%20Windows%20Service.)
 2. Run ```npm install``` and ```npm run start``` to install the deps and start the backend on port 8000 (default) from the root of project.
 3. Initiate the frontend code by cloning this repository: https://github.com/it5prasoon/coin-market-app-frontend (You can get the info for running frontend there)
 
